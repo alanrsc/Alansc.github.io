@@ -3,3 +3,11 @@
     margin: 0 auto;
     padding: 16px;
 }
+
+.Foto{
+    width: 260px;
+    height: 300px;
+    margin-top: 5px;
+    border-radius: 30%;
+    overflow: hidden;
+}
